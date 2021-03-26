@@ -7,4 +7,5 @@ int main() {
   }
 
   printf("A soma eh %d", soma);
+  
 }
