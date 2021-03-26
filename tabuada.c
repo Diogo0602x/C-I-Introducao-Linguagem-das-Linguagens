@@ -9,4 +9,5 @@ int main() {
     int multiplicacao = numero * i;
     printf("%d x %d = %d\n", numero, i, multiplicacao);
   }
+  
 }
